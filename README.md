@@ -1,4 +1,4 @@
-# Golang design patterns by MrWebUzb
+# Golang design patterns implementation examples
 
 ## Table of Contents
 
